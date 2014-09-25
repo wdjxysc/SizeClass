@@ -24,6 +24,7 @@
     // Dispose of any resources that can be recreated.
     
     NSLog(@"%@",@"草泥马");
+    NSLog(@"caonima");
 }
 
 @end
